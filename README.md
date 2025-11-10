@@ -114,7 +114,7 @@ git push origin main
 
 ---
 
-## 🧠 Tips for New Members
+### Tips for New Members
 - Next.js automatically updates your site when you save a file (**hot reload**)  
 - You don’t need React Router — Next.js handles routing automatically  
 - Use components to keep your code organized  
